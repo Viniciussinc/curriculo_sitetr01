@@ -1,1 +1,495 @@
-# curriculo_sitetr01
+O projeto lecionado pelo professor Marcio, na matéria de Desenvolvimento Web 1 no curso de DSM - FATEC Franca - 1ºsemestre. Foi pensando em termos nosso currículo em uma versão web page, nos colocando a por em prática os conhecimentos adquiridos em HTML e CSS.
+
+💻 Link do site
+No site foi utilizado:
+
+HTML
+CSS
+Cógido-fonte:
+
+HTML
+Home Page
+
+
+    <header class="container-cabecalho">
+        <a href="index.html">
+            <img src="assets/images/logo_empresa.png" alt="Logo da empresa" title="ViniciusdevCorp">
+        </a>
+        <h3>ViniciusdevCV</h3>
+    </header>
+
+    
+    <nav class="container-navegacao">
+        <a href="index.html">Quem sou</a>
+        <a href="servicos.html">Nossos Serviços</a>
+        <a href="contactos.html">Contatos</a>
+    </nav>
+
+    
+    <section class="container-quem-somos">
+
+        <article class="servico">
+            <img src="assets/images/icon_ai.png" class="icone" alt="ViniciusdevCorp">
+            <p class="servico-texto">
+                Sou Vinicius de Araújo Silva especialista e desenvolvedor fullstack,
+                Trabalhamos para encontrar soluções tecnologicamente inteligentes para todas as áreas empresariais.
+            </p>
+        </article>
+
+        <article class="servico">
+            <img src="assets/images/icon_lab.png" class="icone" alt="Laboratório moderno">
+            <p class="servico-texto">
+                Os nossos metodos são os mais modernos da atualidade.
+            </p>
+        </article>
+
+        <article class="servico">
+            <img src="assets/images/icon_computer.png" class="icone" alt="Programadores experientes">
+            <p class="servico-texto">
+                Programador Fullstack com proeficiência em javascript e python
+            </p>
+        </article>
+
+    </section>
+
+
+    
+    <section class="container-servicos-contactos">
+
+        <h1>Obtenha mais informações na área de serviços e contate-nos.</h3>
+
+            <div class="botoes-servicos-contactos">
+                <a href="servicos.html">Ver serviços</a>
+                <a href="contactos.html">Contatos</a>
+            </div>
+
+    </section>
+
+    <footer>
+        ViniciusdevCorp &copy; 2024| &reg; Todos os direitos reservados.
+    </footer>
+
+
+
+
+
+</body>
+
+</html>
+    <header class="container-cabecalho">
+        <a href="index.html">
+            <img src="assets/images/logo_empresa.png" alt="Logo da empresa" title="ViniciusdevCorp">
+        </a>
+        <h3>ViniciusdevCV</h3>
+    </header>
+
+    
+    <nav class="container-navegacao">
+        <a href="index.html">Quem sou</a>
+        <a href="servicos.html">Nossos Serviços</a>
+        <a href="contactos.html">Contatos</a>
+    </nav>
+
+    
+    <section class="container-quem-somos">
+
+        <article class="servico">
+            <img src="assets/images/icon_ai.png" class="icone" alt="ViniciusdevCorp">
+            <p class="servico-texto">
+                Sou Vinicius de Araújo Silva especialista e desenvolvedor fullstack,
+                Trabalhamos para encontrar soluções tecnologicamente inteligentes para todas as áreas empresariais.
+            </p>
+        </article>
+
+        <article class="servico">
+            <img src="assets/images/icon_lab.png" class="icone" alt="Laboratório moderno">
+            <p class="servico-texto">
+                Os nossos metodos são os mais modernos da atualidade.
+            </p>
+        </article>
+
+        <article class="servico">
+            <img src="assets/images/icon_computer.png" class="icone" alt="Programadores experientes">
+            <p class="servico-texto">
+                Programador Fullstack com proeficiência em javascript e python
+            </p>
+        </article>
+
+    </section>
+
+
+    
+    <section class="container-servicos-contactos">
+
+        <h1>Obtenha mais informações na área de serviços e contate-nos.</h3>
+
+            <div class="botoes-servicos-contactos">
+                <a href="servicos.html">Ver serviços</a>
+                <a href="contactos.html">Contatos</a>
+            </div>
+
+    </section>
+
+    <footer>
+        ViniciusdevCorp &copy; 2024| &reg; Todos os direitos reservados.
+    </footer>
+
+
+
+
+
+</body>
+
+</html>
+
+Pagina de Contatos
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ViniciusdevCorp</title>
+
+    
+    <link rel="stylesheet" href="assets/css/estilos.css">
+
+    
+    <link rel="shortcut icon" href="assets/images/logo_empresa.png" type="image/png">
+
+</head>
+
+<body>
+
+    
+    <header class="container-cabecalho">
+        <a href="index.html">
+            <img src="assets/images/logo_empresa.png" alt="Logo da empresa" title="ViniciusdevCorp">
+        </a>
+        <h3>ViniciusdevCV</h3>
+    </header>
+
+   
+    <nav class="container-navegacao">
+        <a href="index.html">Quem sou</a>
+        <a href="servicos.html">Nossos Serviços</a>
+        <a href="contactos.html">Contatos</a>
+    </nav>
+
+   
+    <section class="container-contactos">
+        
+        <h1 class="text-center">Contate-nos</h1>
+        <h3 class="text-center">Estou disponível 24/7 para o esclarecer</h3>
+
+        <article class="text-center">
+            <img src="assets/images/icon_phone.png" alt="Telefone">
+            <a href="tel:16992747927" class="contactos">16992747927</a>
+            <small>Entre as 09:00h e as 19:00h</small>
+        </article>
+
+        <article class="text-center margin-top-40">
+            <img src="assets/images/icon_email.png" alt="Email">
+            <a href="mailto:viniciuswkaraujo@gmail.com" class="contactos">Viniciuswkaraujo@gmail.com</a>
+            <small>Respondo a todos os emails no prazo de 12 horas.</small>
+        </article>
+
+    </section>
+
+
+    
+    <section class="container-servicos-contactos">
+
+        <h1>Conheça os nossos servicos.</h3>
+
+            <div class="botoes-servicos-contactos">
+                <a href="servicos.html" class="botao">Os nossos serviços</a>
+            </div>
+
+    </section>
+
+    <footer>
+        ViniciusdevCorp &copy; 2024| &reg; Todos os direitos reservados.
+    </footer>
+
+
+
+
+
+</body>
+
+</html>
+
+Pagina de serviços
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ViniciusdevCorp</title>
+
+    
+    <link rel="stylesheet" href="assets/css/estilos.css">
+
+    
+    <link rel="shortcut icon" href="assets/images/logo_empresa.png" type="image/png">
+
+</head>
+
+<body>
+
+    
+    <header class="container-cabecalho">
+        <a href="index.html">
+            <img src="assets/images/logo_empresa.png" alt="Logo da empresa" title="ViniciusdevCorp">
+        </a>
+        <h3>ViniciusdevCV</h3>
+    </header>
+
+    
+    <nav class="container-navegacao">
+        <a href="index.html">Quem sou</a>
+        <a href="servicos.html">Nossos Serviços</a>
+        <a href="contactos.html">Contatos</a>
+    </nav>
+
+    
+    <section class="container-servicos">
+        
+        <h1 class="text-center">Os nossos serviços</h1>
+
+        <article>
+            <h3>Soluções inovadoras para a sua empresa</h3>
+            <ul>
+                <li>Desenhamos novas soluções </li>
+                <li>Aumentamos a performance e eficiência do seu codigo</li>
+                <li>Incremento garantido de 20% nos lucros da empresa.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Projetamos o futuro do seu negócio</h3>
+            <ol>
+                <li>Pensamos na melhor solução</li>
+                <li>Desenvolvemos o produto em parceria consigo</li>
+                <li>Aplicamos a solução na empresa.</li>
+                <li>Fazemos a monitorização do processo.</li>
+            </ol>
+        </article>
+
+    </section>
+
+
+    
+    <section class="container-servicos-contactos">
+
+        <h1>Obtenha mais informações.</h3>
+
+            <div class="botoes-servicos-contactos">
+                <a href="contactos.html" class="botao">Contate-me</a>
+            </div>
+
+    </section>
+
+    <footer>
+        ViniciusdevCorp &copy; 2024 | &reg; Todos os direitos reservados.
+    </footer>
+
+
+
+
+
+</body>
+
+</html>
+
+
+CSS
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+
+.container-cabecalho {
+    text-align: center;
+    padding: 20px;
+    background-color: #04233F;
+}
+.container-cabecalho h3 {
+    font-weight: 600;
+    font-size: 2em;
+    color: #1190ff;
+}
+
+
+.container-navegacao {
+    text-align: center;
+    padding: 20px;
+    background-color: #06345d;
+}
+
+.container-navegacao a {
+    font-size: 1.5em;
+    margin: 0px 50px;
+    text-decoration: none;
+    color:#7cc2ff;
+}
+
+.container-navegacao a:hover {
+    color:#ffffff;
+}
+
+
+.container-quem-somos {
+    background-color:#05192a;
+    overflow: auto;
+}
+
+.container-quem-somos .servico {
+    float: center;
+    margin: 60px auto;
+    background-color: #061f35;
+    width: 50%;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container-quem-somos .servico .icone {
+    margin-bottom: 10px;
+}
+
+.container-quem-somos .servico-texto {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color:#81c4ff;
+}
+
+.container-quem-somos .servico-texto-realce {
+    color: white;
+    font-weight: bold;
+}
+
+
+.container-servicos-contactos {
+    background-color:#082946;
+    padding: 80px;
+    text-align: center;
+}
+
+.container-servicos-contactos .botoes-servicos-contactos {
+    padding: 60px;
+    text-align: center;
+}
+
+.botoes-servicos-contactos a {
+    display: block;
+    max-width: 200px;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: #008eb9;
+    color: white;
+    padding: 20px 60px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.botoes-servicos-contactos a:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.container-servicos {
+    background-color:#05192a;
+    font-size: 1.1em;
+    padding: 60px;
+    overflow: auto;
+}
+
+.container-servicos h1 {
+    font-size: 3em;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.container-servicos h3 {
+    color:#2097ff;
+    padding: 20px 0;
+}
+
+.container-servicos article {
+    width: 40%;
+    margin: auto;
+    float: center;
+}
+
+.container-servicos li {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
+}
+
+
+.container-contactos {
+    background-color:#05192a;
+    padding: 80px;
+}
+
+.container-contactos h1 {
+    font-size: 3em;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.container-contactos h3 {
+    font-size: 1.5em;
+    font-weight: 100;
+    width: 40%;
+    margin: auto;
+    color:white;
+    margin-bottom: 20px;
+    border: 1px solid #105088;
+    background-color:#08253f;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.container-contactos .contactos {
+    display: block;
+    font-size: 2em;
+    text-decoration: none;
+    color: #00a2ff;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 80px;
+    background-color: #02111f;
+    color: gray;
+}
+Icones utilizados
+![icon_computer](https://github.com/Viniciussinc/Site_02cv/assets/161644516/20e11539-c066-400b-b6cc-839c589055a7)
