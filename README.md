@@ -1,6 +1,6 @@
 O projeto lecionado pelo professor Marcio, na matéria de Desenvolvimento Web 1 no curso de DSM - FATEC Franca - 1ºsemestre. Foi pensando em termos nosso currículo em uma versão web page, nos colocando a por em prática os conhecimentos adquiridos em HTML e CSS.
 
-💻 Link do site
+💻 Link do site: viniciussinc.github.io/curriculo_sitetr01/cv
 No site foi utilizado:
 
 HTML
@@ -319,7 +319,7 @@ Icones utilizados:
 <img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/icon_phone.png "/>
 
 Prints do site:
-<img src="[image_2024-03-22_144509147.png](https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%201.png)https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%201.png"/>
-<img src="https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/PRint%202.png"/>
-<img src="[https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/PRint%202.png](https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%203.png)"/>
-
+<img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/Print%203.png"/>
+<img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/Print%201.png "/>
+<img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/Print%204.png "/>
+<img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/PRint%202.png "/>
