@@ -308,7 +308,7 @@ Pagina de serviços
 </html>
 ```
 
-Icones utilizados
+Icones utilizados:
 
 <img src="https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/logo_empresa.png"/>
 <img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/icon_ai.png"/>
@@ -317,3 +317,9 @@ Icones utilizados
 <img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/icon_lab.png "/>
 <img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/icon_phone%20copy.png "/>
 <img src="https://github.com/Viniciussinc/curriculo_sitetr01/blob/main/cv/assets/images/icon_phone.png "/>
+
+Prints do site:
+<img src="[image_2024-03-22_144509147.png](https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%201.png)https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%201.png"/>
+<img src="https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/PRint%202.png"/>
+<img src="[https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/PRint%202.png](https://raw.githubusercontent.com/Viniciussinc/curriculo_sitetr01/main/cv/assets/images/Print%203.png)"/>
+
